@@ -44,4 +44,4 @@ compass compile
 grunt docs
 
 # Deploy site to App Engine.
-appcfg.py update --oauth2 .
+/home/develop/google-cloud-sdk/platform/google_appengine/appcfg.py update --oauth2 .
